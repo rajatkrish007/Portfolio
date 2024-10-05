@@ -1,0 +1,192 @@
+
+nav ul li{
+    font-size: 85%;
+}
+
+.first, .second{
+    font-size: 2.4rem;
+}
+
+.third{
+    font-size: 1.5rem;
+}
+
+#mainCon1{
+   padding-top: 4.5%;
+   height: 50vh;
+}
+
+#mainCon2{
+    display: block;
+}
+
+#mainCon3{
+    display: block;
+}
+
+#mainCon4{
+    display: block;
+}
+
+.imgArea img{
+    margin-top: -10%;
+    margin-left: 7%;
+    margin-bottom: 35%;
+    height: 85%;
+    width:85%;
+}
+
+.aboutMe h2{
+    margin-left: -70%;
+    font-size: 1.6rem;
+    padding: 3%;
+    margin-top: -30%;
+    margin-bottom: 7%;
+    
+}
+
+.aboutMe h4{
+    margin-left: -60%;
+    margin-top: -7%;
+    text-align: right;
+    font-size: 1.1rem;
+    margin-bottom: 20%;
+}
+
+.aboutMe p{
+    font-size: 0.90rem;
+    margin-top: 3%;
+    margin-left: -117%;
+    margin-right: -75%;
+    line-height: 150%;
+    /* text-align: justify; */
+    word-spacing: 50%;
+    padding: 7%;
+}
+
+
+#mainCon3 h2{
+    margin-left: -35%;
+    margin-right: -10%;
+    font-size: 1.7rem;
+    margin-top: -5%;
+    text-align: left;
+    /* height: 30vh; */
+}
+
+#mainCon3 p{
+    text-align:left;
+    margin-top: 17%;
+    font-size: 0.90rem;
+    margin-left: -60%;
+    margin-right: -75%;
+    line-height: 160%;
+    word-spacing: 50%;
+    padding: 5%;
+}
+
+.blocks{
+    margin-top: -55%;
+    margin-left: 41%;
+}
+
+.image img{
+    height: 17rem;
+    width: 17rem;
+    margin-top: 15%;
+    margin-left: -5%;
+    margin-right: 5%;
+}
+
+
+.info h1{
+    margin-top: -12%;
+    font-size: 2.1rem;
+    margin-left: -19%;
+    margin-bottom: 12%;
+}
+
+.info h2{
+    margin-left: -30%;
+    font-size: 1.3rem;
+}
+
+.info p{
+    margin-top: 5%;
+    margin-bottom: 15%;
+    margin-left: -32%;
+    margin-right: -15%;
+    font-size: 0.90rem;
+    padding-bottom: 10%;
+    line-height: 160%;
+}
+
+#mainCon5 h2{
+    margin-top: 35%;
+    margin-bottom: 20%;
+    margin-left: 5%;
+    font-size: 1.6rem;
+}
+
+.certified1{
+    display: block;
+}
+
+.cer1 img{
+   height: 127%;
+   width: 98%;
+   margin-left: 1%;
+   margin-bottom: 5%;
+}
+
+.cer1description{
+    font-size: 1rem;
+    line-height: 130%;
+    border-radius: 2.5%;
+    margin-bottom: 10%;
+    margin-left: 1%;
+}
+
+.certified2{
+    display: block;
+}
+
+.cer2 img{
+   height: 120%;
+   width: 98%;
+   margin-left: 1%;
+   margin-bottom: 7%;
+}
+
+.cer2description{
+    padding: 4%;
+    font-size: 1rem;
+    line-height: 130%;
+    border-radius: 2.5%;
+    margin-bottom: 10%;
+    margin-left: 1%;
+}
+
+.certified3{
+    display: block;
+}
+
+.cer3 img{
+   margin-left: 1%;
+   margin-bottom: 5%;
+   height: 125%;
+   width: 98%;
+}
+
+.cer3description{
+    padding: 4%;
+    font-size: 1rem;
+    line-height: 130%;
+    border-radius: 2.5%;
+    margin-bottom: 10%;
+    margin-left: 0.5%;
+}
+
+.copyright{
+    padding: 2%;
+}
